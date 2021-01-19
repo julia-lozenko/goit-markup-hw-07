@@ -790,6 +790,7 @@ img {
 /* Social links */
 .footer-social {
   display: flex;
+  align-items: baseline;
 }
 
 .footer-address-container {
